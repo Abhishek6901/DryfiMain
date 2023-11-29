@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211631367994",
+    "project_id": "dryfi-delivery-351a5",
+    "storage_bucket": "dryfi-delivery-351a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211631367994:android:4a8899f6c6722c068f1203",
+        "android_client_info": {
+          "package_name": "com.dryfidelivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9l8hBetcGfZI5hs5pgKbfXwfrNIsWFbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
